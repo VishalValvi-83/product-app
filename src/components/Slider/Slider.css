@@ -1,0 +1,49 @@
+.carousel-home {
+    height: 500px;
+    overflow: hidden;
+}
+
+.carousel-home .carousel-inner {
+    height: 100%;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/591/189/non_2x/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-home .carousel-item {
+    height: 100%;
+ 
+    
+}
+
+.carousel-home .carousel-item .image-bg {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-home .carousel-item .caption-1 {
+    font-size: 22px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0px;
+    margin-bottom: 20px;
+    line-height: 1;
+}
+
+.carousel-home .carousel-item .caption-2 {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 0px;
+    margin-bottom: 55px;
+    line-height: 1.5;
+}
+.pro-image{
+    top: 20%;
+    left: 45%;
+    height: 220px;
+    width: 220px;
+    vertical-align: middle;  
+
+}
