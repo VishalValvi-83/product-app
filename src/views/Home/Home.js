@@ -7,8 +7,9 @@ function Home() {
     return (
         <>
            <Slider/>
+            <h1 className='text-center products mt-5 text-white '>Today's Best Deals</h1>
             <div className='container'>
-           
+
                 {Prodata.map((proObject, i) => {
                     const {
                         id,

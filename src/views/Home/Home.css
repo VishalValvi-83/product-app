@@ -6,6 +6,12 @@
     display: flex;
     flex-wrap: wrap;
   }
-  
+  .products{
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    line-height: 1;
+  }
  
   
